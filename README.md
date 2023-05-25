@@ -1,6 +1,6 @@
 # COPE Bathymetry project
 
-This is docs for the COPE Bathymetry project.
+This is docs for the COPE Bathymetry and BlueGAP projects.
 
 GitHub Project : https://github.com/orgs/USF-IMARS/projects/16
 
